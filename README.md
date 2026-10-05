@@ -61,6 +61,17 @@ visualizing phone sensor data round out the mix. Still learning and shipping sma
 
 <br/>
 
+### Collaborative Projects
+
+<table>
+<tr>
+<td><a href="https://github.com/Nesstark/vr-driving-theory-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nesstark&repo=vr-driving-theory-simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" /></a></td>
+<td><a href="https://github.com/Nesstark/ProjectBachelor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nesstark&repo=ProjectBachelor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" /></a></td>
+</tr>
+</table>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=150&section=footer&reversed=true" width="100%"/>
 
 </div>
