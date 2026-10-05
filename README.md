@@ -61,13 +61,6 @@ visualizing phone sensor data round out the mix. Still learning and shipping sma
 
 <br/>
 
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fanteck-boop&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00F0FF&point=FF4FD8" width="90%"/>
-
-<br/>
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=150&section=footer&reversed=true" width="100%"/>
 
 </div>
