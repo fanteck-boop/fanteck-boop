@@ -69,7 +69,6 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://youtu.be/sNBUgaYoS9g"><img src="https://img.youtube.com/vi/sNBUgaYoS9g/hqdefault.jpg" width="100%" alt="Alfie's Håndalfabet video"/></a>
 <h3>Alfie's Håndalfabet</h3>
 <p><sub>SEMESTER PROJECT · GROUP OF 6 · 2024</sub></p>
 <p>Teaches the Danish hand alphabet with real-time computer vision feedback. A/B tested with 30 participants.</p>
