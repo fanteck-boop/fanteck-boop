@@ -64,7 +64,7 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 <h3>TwoTune</h3>
 <p><sub>SEMESTER PROJECT · GROUP OF 5 · 2025</sub></p>
 <p>Asymmetric co-op game in Unity, built to research how pitch control affects immersion.</p>
-<p><a href="https://youtu.be/YWhK5dHaPQg">Video</a> · <a href="https://github.com/johannesfk/batcontrols">Code</a></p>
+<p><a href="https://youtu.be/YWhK5dHaPQg">Video</a> · <a href="https://github.com/emilmiliam/batcontrols">Code</a></p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,6 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 <h3>Alfie's Håndalfabet</h3>
 <p><sub>SEMESTER PROJECT · GROUP OF 6 · 2024</sub></p>
 <p>Teaches the Danish hand alphabet with real-time computer vision feedback. A/B tested with 30 participants.</p>
-<p><a href="https://youtu.be/sNBUgaYoS9g">Video</a> · <a href="https://github.com/fanteck-boop/Teaching-Sign-Language">Code</a></p>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://youtu.be/qaTn_eaXtPc"><img src="https://img.youtube.com/vi/qaTn_eaXtPc/hqdefault.jpg" width="100%" alt="Survival horror combat game video"/></a>
