@@ -73,7 +73,7 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 <h3>Alfie's Håndalfabet</h3>
 <p><sub>SEMESTER PROJECT · GROUP OF 6 · 2024</sub></p>
 <p>Teaches the Danish hand alphabet with real-time computer vision feedback. A/B tested with 30 participants.</p>
-<p><a href="https://youtu.be/sNBUgaYoS9g">Video</a></p>
+<p><a href="https://youtu.be/sNBUgaYoS9g">Video</a> · <a href="https://github.com/fanteck-boop/Teaching-Sign-Language">Code</a></p>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://youtu.be/qaTn_eaXtPc"><img src="https://img.youtube.com/vi/qaTn_eaXtPc/hqdefault.jpg" width="100%" alt="Survival horror combat game video"/></a>
@@ -92,6 +92,8 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 <table>
 <tr><th>Project</th><th>What it is</th><th>Links</th></tr>
 <tr><td><b>Alien Archive</b></td><td>React + Firebase archive of the Alien franchise, pulling from four APIs, with login and saved favourites</td><td><a href="https://alien-world.netlify.app">Live</a> · <a href="https://github.com/fanteck-boop/alien-archive">Code</a></td></tr>
+<tr><td><b>Muster Roll</b></td><td>Warhammer army list builder for AoS, 40K and MESBG, with saved rosters and a tool that compares two units in a round of combat</td><td><a href="https://warhammer-muster-roll.netlify.app/">Live</a> · <a href="https://github.com/fanteck-boop/Warhammer-website">Code</a></td></tr>
+<tr><td><b>GLaDOS Voicebot</b></td><td>Local voice assistant with a GLaDOS-style control panel and an LLM writing in-character replies</td><td><a href="https://github.com/fanteck-boop/Glados-project">Code</a></td></tr>
 <tr><td><b>Very Good Fishing Game</b></td><td>48-hour Unity fishing game. 1st place at MEDCodeJam 2024</td><td><a href="https://github.com/BlonkoTron/MEDCodeJam2024">Code</a></td></tr>
 <tr><td><b>Mindful Meadows</b></td><td>Exploration game where expressive writing plants trees and clears a dark island. SUS score 88.65</td><td><a href="https://github.com/BlonkoTron/MindfulMeadows">Code</a></td></tr>
 <tr><td><b>GumGum Beat 'Em Up</b></td><td>Unity beat 'em up from the Programming of Immersive Technologies course</td><td><a href="https://youtu.be/__1bS_iSDOY">Video</a> · <a href="https://github.com/emilmiliam/pit_GumGum">Code</a></td></tr>
