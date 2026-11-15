@@ -106,6 +106,38 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 
 <br/>
 
+### Every Repo I've Worked On
+
+<b>Group projects on teammates' accounts</b><br/>
+<a href="https://github.com/emilmiliam/ProjectBachelor">ProjectBachelor</a> ·
+<a href="https://github.com/emilmiliam/vr-driving-theory-simulator">vr-driving-theory-simulator</a> ·
+<a href="https://github.com/emilmiliam/pit_GumGum">pit_GumGum</a> ·
+<a href="https://github.com/emilmiliam/ammi_mini-project">ammi_mini-project</a> ·
+<a href="https://github.com/johannesfk/batcontrols">batcontrols</a> ·
+<a href="https://github.com/Simmsmeister/P7">P7</a> ·
+<a href="https://github.com/ContaDoge/MED502">MED502</a> ·
+<a href="https://github.com/BlonkoTron/MEDCodeJam2024">MEDCodeJam2024</a> ·
+<a href="https://github.com/BlonkoTron/MindfulMeadows">MindfulMeadows</a> ·
+<a href="https://github.com/VHSTapeDVD/GameJam-P1">GameJam-P1</a> ·
+<a href="https://github.com/VHSTapeDVD/P1-TurtleGame">P1-TurtleGame</a> ·
+<a href="https://github.com/VHSTapeDVD/P2-Game">P2-Game</a> ·
+<a href="https://github.com/NicklasKleemann/p1-Projekt">p1-Projekt</a>
+
+<b>On my account</b><br/>
+<a href="https://github.com/fanteck-boop/Warhammer-website">Warhammer-website</a> ·
+<a href="https://github.com/fanteck-boop/alien-archive">alien-archive</a> ·
+<a href="https://github.com/fanteck-boop/Glados-project">Glados-project</a> ·
+<a href="https://github.com/fanteck-boop/open-rppg">open-rppg</a> ·
+<a href="https://github.com/fanteck-boop/Narratives-in-Interactive-Systems---Perfect-Participant">Narratives-in-Interactive-Systems</a> ·
+<a href="https://github.com/fanteck-boop/Real-time-computer-graphics">Real-time-computer-graphics</a> ·
+<a href="https://github.com/fanteck-boop/VR">VR</a> ·
+<a href="https://github.com/fanteck-boop/Teaching-Sign-Language">Teaching-Sign-Language</a> ·
+<a href="https://github.com/fanteck-boop/Pai-3d">Pai-3d</a> ·
+<a href="https://github.com/fanteck-boop/Finger-painting">Finger-painting</a> ·
+<a href="https://github.com/fanteck-boop/Coding-in-3D-worlds">Coding-in-3D-worlds</a>
+
+<br/>
+
 ### Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fanteck-boop&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=00F0FF&currStreakLabel=39FF14" width="70%"/>
