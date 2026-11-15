@@ -100,9 +100,7 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 <tr><td><b>VR Reaction Trainer</b></td><td>FitLight-style VR reaction-time trainer with audio-visual cues and haptic feedback on misses</td><td><a href="https://github.com/emilmiliam/ammi_mini-project">Code</a></td></tr>
 <tr><td><b>Finger Painting</b></td><td>Python hand tracking streams your fingertip into a Unity canvas so you can paint in the air</td><td><a href="https://github.com/fanteck-boop/Finger-painting">Code</a></td></tr>
 <tr><td><b>Tessa's Rejse</b></td><td>Serious game about ocean plastic for kids, tested with 40 children</td><td><a href="https://github.com/VHSTapeDVD/P1-TurtleGame">Code</a></td></tr>
-<tr><td><b>Plagiarism Detection</b></td><td>C program that catches paraphrased text where words were swapped for synonyms</td><td><a href="https://github.com/NicklasKleemann/p1-Projekt">Code</a></td></tr>
-<tr><td><b>Rehab Serious Game</b> <sub>(in progress)</sub></td><td>Game to motivate rehab patients and lighten the therapist's workload</td><td><a href="https://github.com/fanteck-boop/P7-Rehabilitation-SeriousGame">Code</a></td></tr>
-</table>
+<tr><td><b>Plagiarism Detection</b></td><td>C program that catches paraphrased text where words were swapped for synonyms</td><td><a href="https://github.com/NicklasKleemann/p1-Projekt">Code</a></td></tr></table>
 
 <br/>
 
