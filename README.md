@@ -111,7 +111,7 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 <a href="https://github.com/emilmiliam/vr-driving-theory-simulator">vr-driving-theory-simulator</a> ·
 <a href="https://github.com/emilmiliam/pit_GumGum">pit_GumGum</a> ·
 <a href="https://github.com/emilmiliam/ammi_mini-project">ammi_mini-project</a> ·
-<a href="https://github.com/johannesfk/batcontrols">batcontrols</a> ·
+<a href="https://github.com/emilmiliam/batcontrols">batcontrols</a> ·
 <a href="https://github.com/Simmsmeister/P7">P7</a> ·
 <a href="https://github.com/ContaDoge/MED502">MED502</a> ·
 <a href="https://github.com/BlonkoTron/MEDCodeJam2024">MEDCodeJam2024</a> ·
