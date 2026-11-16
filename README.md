@@ -69,9 +69,11 @@ For my bachelor, our group used webcam heart-rate tracking to change a game's vi
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
+<a href="https://github.com/fanteck-boop/Teaching-Sign-Language"><img src="assets/alfie.png" width="100%" alt="Alfie's Håndalfabet: a cat character signs a letter while the app tracks the player's hand"/></a>
 <h3>Alfie's Håndalfabet</h3>
 <p><sub>SEMESTER PROJECT · GROUP OF 6 · 2024</sub></p>
 <p>Teaches the Danish hand alphabet with real-time computer vision feedback. A/B tested with 30 participants.</p>
+<p><a href="https://github.com/fanteck-boop/Teaching-Sign-Language">Code</a></p>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://youtu.be/qaTn_eaXtPc"><img src="https://img.youtube.com/vi/qaTn_eaXtPc/hqdefault.jpg" width="100%" alt="Survival horror combat game video"/></a>
